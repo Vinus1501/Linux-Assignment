@@ -1,5 +1,5 @@
 **Assignment-4**
-**
+
 
 Q1.	Create a directory named "MyFiles" in your home directory. Navigate into this directory and list its contents.
 ![1](https://github.com/Vinus1501/Linux-Assignment/assets/153744714/15d35942-8d12-4fde-bcba-82958ffa6761)
